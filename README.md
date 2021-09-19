@@ -1,2 +1,2 @@
-# Emoji_Interpreter
+# neogcamp-practice-emoji-app
 Created with CodeSandbox
